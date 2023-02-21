@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bops866/petclinicimage
+  repository: bops866/petclinic
   tag: latest
   pullPolicy: IfNotPresent
 
